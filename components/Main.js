@@ -27,7 +27,10 @@ class Main extends React.Component {
         >
           <h2 className="major">Intro</h2>
           <span className="image main">
-            <img src="/assets/images/pic01.jpg" alt="" />
+            <img
+              src="https://github.com/samsouth/hr-painting/blob/main/static/images/pic01.jpg"
+              alt=""
+            />
           </span>
           <p>
             Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
@@ -61,7 +64,10 @@ class Main extends React.Component {
         >
           <h2 className="major">Work</h2>
           <span className="image main">
-            <img src="/assets/images/pic02.jpg" alt="" />
+            <img
+              src="https://github.com/samsouth/hr-painting/blob/main/static/images/pic02.jpg"
+              alt=""
+            />
           </span>
           <p>
             Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
@@ -90,7 +96,10 @@ class Main extends React.Component {
         >
           <h2 className="major">About</h2>
           <span className="image main">
-            <img src="/assets/images/pic03.jpg" alt="" />
+            <img
+              src="https://github.com/samsouth/hr-painting/blob/main/static/images/pic03.jpg"
+              alt=""
+            />
           </span>
           <p>
             Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
