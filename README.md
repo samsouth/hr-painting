@@ -1,4 +1,5 @@
 # nextjs-starter-dimension
+
 A Next.js starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/nextjs-website-starters/ for more Next.js starters and templates.
 
 ## Preview
@@ -23,9 +24,9 @@ npm install
 npm run dev
 ```
 
-## Generating the Static Site
+## Generating the public Site
 
 ```
-# Build and export the site, the static files are generated in the out/ folder
+# Build and export the site, the public files are generated in the out/ folder
 npm run export
 ```
