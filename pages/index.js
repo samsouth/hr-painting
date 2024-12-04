@@ -77,7 +77,12 @@ class IndexPage extends React.Component {
       >
         <div>
           <Head>
-            <title>Next.js Starter</title>
+            <title class="next-head">RM Painting & Decorating</title>
+            <meta
+              name="description"
+              content="Specializing in both interior and exterior painting, we provide high-quality finishes that bring your vision to life."
+              class="next-head"
+            />{" "}
             <link
               href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i"
               rel="stylesheet"
