@@ -28,7 +28,7 @@ class Main extends React.Component {
           <h2 className="major">Intro</h2>
           <span className="image main">
             <img
-              src="https://github.com/samsouth/hr-painting/blob/main/static/images/pic01.jpg"
+              src="https://github.com/samsouth/hr-painting/blob/f528352aa5f0b70c498a7d0bd4cd589004cf96ee/static/images/pic01.jpg"
               alt=""
             />
           </span>
@@ -65,7 +65,7 @@ class Main extends React.Component {
           <h2 className="major">Work</h2>
           <span className="image main">
             <img
-              src="https://github.com/samsouth/hr-painting/blob/main/static/images/pic02.jpg"
+              src="https://github.com/samsouth/hr-painting/blob/f528352aa5f0b70c498a7d0bd4cd589004cf96ee/static/images/pic02.jpg"
               alt=""
             />
           </span>
@@ -97,7 +97,7 @@ class Main extends React.Component {
           <h2 className="major">About</h2>
           <span className="image main">
             <img
-              src="https://github.com/samsouth/hr-painting/blob/main/static/images/pic03.jpg"
+              src="https://github.com/samsouth/hr-painting/blob/f528352aa5f0b70c498a7d0bd4cd589004cf96ee/static/images/pic03.jpg"
               alt=""
             />
           </span>

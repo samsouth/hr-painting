@@ -14,7 +14,7 @@
 
   &:before {
     @include vendor("pointer-events", "none");
-    background-image: url("https://github.com/samsouth/hr-painting/blob/main/static/images/overlay.png");
+    background-image: url("https://github.com/samsouth/hr-painting/blob/f528352aa5f0b70c498a7d0bd4cd589004cf96ee/static/images/overlay.png");
     background-color: _palette(bg-overlay);
     border-radius: _size(border-radius);
     content: "";
